@@ -2,7 +2,6 @@
 <h3 align="center">Enthusiastic Frontend Developer with expertise in UI/UX design, specializing in building responsive and user-friendly interfaces.</h3>
 
 - 🌱 I’m currently learning **AWS**
-- 
 - 📫 How to reach me **arungandhi.palani@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
