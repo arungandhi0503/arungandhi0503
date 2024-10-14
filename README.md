@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arungandhi</h1>
-<h3 align="center">Enthusiastic Frontend Developer with expertise in UI/UX design, specializing in building responsive and user-friendly interfaces.</h3>
+<h3 align="center">Enthusiastic Frontend Developer, specializing in building responsive and user-friendly interfaces.</h3>
 
 - 🌱 I’m currently learning **AWS**
 - 📫 How to reach me **arungandhi.palani@outlook.com**
